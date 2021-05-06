@@ -9,10 +9,12 @@ Twlight
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   license:
+   help:
 
 
 
-Content:
+Contents:
 ==================
 
 * :ref:`Introduction`
