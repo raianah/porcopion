@@ -19,7 +19,7 @@ async def hello(ctx):
 
 ### You can check the contents below, all corresponds to their respective documentation.
 * [Introduction](https://github.com/raianah/twlight-docs/tree/main/introduction "Introduction")
-* [Commands](https://github.com/raianah/twlight-docs/tree/main/commands)
+* [Commands](https://github.com/raianah/twlight-docs/tree/main/commands "Commands")
 * [Link](https://discord.com/api/oauth2/authorize?client_id=828936914601246741&permissions=1409416310&scope=bot "Discord Invite Link")
 
 ___
