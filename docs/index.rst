@@ -4,13 +4,13 @@
    contain the root `toctree` directive.
 
 Twlight
-===================================
+=======
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   license:
-   help:
+   license
+   help
 
 
 
