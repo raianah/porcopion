@@ -103,4 +103,4 @@ async def p4(ctx):
     em.set_footer(text=f'• Twilight • {ctx.author.name} • >help p7 for next page ', icon_url="https://cdn.discordapp.com/attachments/831412988111487017/836129293070499900/20210426_140531_0000.png")
     await ctx.send(embed=em)
     
-@client.token('token')
+client.run('token')
