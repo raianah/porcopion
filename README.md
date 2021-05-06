@@ -11,14 +11,15 @@ Welcome to the documentation overview for *Twlight Bot.* **(yes you see it right
     Twlight
 </h1>
 
-```@client.command()
+```
+@client.command()
 async def hello(ctx):
   await ctx.send(f'Hello, {ctx.author.name}!')
 ```
 
 ### You can check the contents below, all corresponds to their respective documentation.
 * [Introduction](https://github.com/raianah/twlight-docs/tree/main/introduction "Introduction")
-* Commands
+* [Commands](https://github.com/raianah/twlight-docs/tree/main/commands)
 * [Link](https://discord.com/api/oauth2/authorize?client_id=828936914601246741&permissions=1409416310&scope=bot "Discord Invite Link")
 
 ___
