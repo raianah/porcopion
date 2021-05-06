@@ -38,3 +38,7 @@ ___
 async def bye(ctx):
   print("Thanks for reading!")
 ```
+
+### Continue Reading:
+* [Commands](https://github.com/raianah/twlight-docs/tree/main/commands "Commands")
+* [Link](https://discord.com/api/oauth2/authorize?client_id=828936914601246741&permissions=1409416310&scope=bot "Discord Invite Link")
