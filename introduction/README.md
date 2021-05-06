@@ -30,3 +30,9 @@ Want to be part of upcoming updates? Join us [here](https://discord.gg/7v2fUjXN9
 
 ### Suggestion
 Your suggestion will be highly appreciated! Through your Discord server, type `>suggest or sgg`, then input your suggestion and wait for hours to days depending on our availability. Otherwise email the creator at `guadalupesy2017@gmail.com` or send me a DM at `Irene Raianah#0718`.
+
+```
+@client.command()
+async def bye(ctx):
+  print("Thanks for reading!")
+```
