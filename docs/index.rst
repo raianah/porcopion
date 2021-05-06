@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to twlight's documentation!
+Twlight
 ===================================
 
 .. toctree::
@@ -12,9 +12,11 @@ Welcome to twlight's documentation!
 
 
 
-Indices and tables
+Content:
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+* :ref:`Introduction`
+* :ref:`Entertainment Commands`
+* :ref:`Moderation Commands`
+* :ref:`Other Commands`
+* :ref:`Links`
