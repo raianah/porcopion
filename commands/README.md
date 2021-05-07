@@ -58,13 +58,21 @@ ___
 
 ## 👮 | Moderator Commands (requires moderator permissions except AFK)
 
-#### AFK *(afk)* = Marks your name with AFK, then muted until the given duration.
+#### AFK *(afk)* = Marks your name with AFK until the given duration.
+
+#### Mute AFK *(mtafk)* = Marks your name with AFK, then muted until the given duration.
+
+#### Ban = Bans a member.
+
+#### Kick = Kicks a member.
 
 #### Ping *(pn)* = Shows the bot's current latency.
 
 #### Clear *(clr)* = Clears recent messages.
 
 #### Permamute *(mtp)* = Mutes a member indefinitely.
+
+#### Tempban *(tmpban)* = Temporarily bans a member.
 
 #### Timed Mute *(mt)* = Mutes a member with time given.
 
@@ -74,4 +82,4 @@ ___
 
 ### Continue Reading:
 * [Introduction](https://github.com/raianah/twlight-docs/tree/main/introduction "Introduction")
-* [Link](https://discord.com/api/oauth2/authorize?client_id=828936914601246741&permissions=1409416310&scope=bot "Discord Invite Link")
+* [Command Execution](https://github.com/raianah/twlight-docs/tree/main/command%20execution)
