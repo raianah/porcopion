@@ -60,3 +60,7 @@ ___
 #### `>tempban or >tmpban <member> <number>dn <reason>`
 #### `>mute or >mt <member> <number>dn <reason>`
 #### `>unmute or >umt <member> <reason>`
+
+## Continue reading
+* [Introduction](https://github.com/raianah/twlight-docs/tree/main/introduction "Introduction")
+* [Commands](https://github.com/raianah/twlight-docs/tree/main/commands "Commands")
