@@ -23,10 +23,10 @@ async def on_ready():
 ___
 
 ### Status
-Twlight is still in BETA Phase, currently in 0.1.0 patch. Check `>help P1` in your [Discord Server](https://discord.com/download "Discord") with [Twlight Bot](https://discord.com/api/oauth2/authorize?client_id=828936914601246741&permissions=1409416310&scope=bot "Invite Link") to see the latest patch notes Currently the bot runs **35** commands!. The bot is currently under approval for [top.gg](https://top.gg/ "top.gg website").
+Twlight is still in BETA Phase, currently in 0.2.3 patch. Check `>help P1` in your [Discord Server](https://discord.com/download "Discord") with [Twlight Bot](https://discord.com/api/oauth2/authorize?client_id=828936914601246741&permissions=1409416310&scope=bot "Invite Link") to see the latest patch notes Currently the bot runs **35** commands!. The bot is currently under approval for [top.gg](https://top.gg/ "top.gg website").
 
 ### Community
-Want to be part of upcoming updates? Join us [here](https://discord.gg/7v2fUjXN99 "Betagrounds Server")!
+Want to know other updates? Join us [here](https://discord.gg/7v2fUjXN99 "Betagrounds Server")!
 
 ### Suggestion
 Your suggestion will be highly appreciated! Through your Discord server, type `>suggest or sgg`, then input your suggestion and wait for hours to days depending on our availability. Otherwise email the creator at `guadalupesy2017@gmail.com` or send me a DM at `Irene Raianah#0718`.
@@ -41,4 +41,4 @@ async def bye(ctx):
 
 ### Continue Reading:
 * [Commands](https://github.com/raianah/twlight-docs/tree/main/commands "Commands")
-* [Link](https://discord.com/api/oauth2/authorize?client_id=828936914601246741&permissions=1409416310&scope=bot "Discord Invite Link")
+* [Command Execution](https://github.com/raianah/twlight-docs/tree/main/command%20execution)
