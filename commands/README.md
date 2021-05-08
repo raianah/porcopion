@@ -32,7 +32,7 @@ ___
 
 #### Coinflip *(cnf)* = Heads or tails, which one will go above?
 
-#### Pick a Number *(pcn)* = Picks your desired number, then test your luck.
+#### Raffle *(rfl)* = Find your lucky number. Maximum number: **100,000**!
 
 #### Rolldice *(rdc)* = Pick a number from 1-6, and roll the dice, see where it takes you!
 
@@ -56,19 +56,17 @@ ___
 
 ___
 
-## 👮 | Moderator Commands (requires moderator permissions except AFK)
-
-#### AFK *(afk)* = Marks your name with AFK until the given duration.
-
-#### Mute AFK *(mtafk)* = Marks your name with AFK, then muted until the given duration.
+## 👮 | Moderator Commands
 
 #### Ban = Bans a member.
 
 #### Kick = Kicks a member.
 
-#### Ping *(pn)* = Shows the bot's current latency.
-
 #### Clear *(clr)* = Clears recent messages.
+
+#### Slowmode *(slwm)* = Sets the channel slowmode.
+
+#### Snipe *(snp)* = Captures the latests deleted post.
 
 #### Permamute *(mtp)* = Mutes a member indefinitely.
 
@@ -77,6 +75,38 @@ ___
 #### Timed Mute *(mt)* = Mutes a member with time given.
 
 #### Unmute *(umt)* = Unmutes a member.
+
+___
+
+## 📝 | Utility Commands
+
+#### AFK *(afk)* = Marks your name with AFK until the given duration.
+
+#### Mute AFK *(mtafk)* = Marks your name with AFK, then muted until the given duration.
+
+#### Ping *(pn)* = Shows the bot's current latency.
+
+#### Change Nickname *(nick)* = Changes your nickname.
+
+#### Documentation *(docs)* = For easy access to this GitHub link.
+
+#### Reminder *(remind)* = Sets a timer, and reminds you after the set duration.
+
+#### Remove Nickname *(rnick)* = Removes your nickname.
+
+___
+
+## 🔢 | Calculator Commands
+
+###### Note: All digits in the first place are called addend/minuend/multiplicand/dividend. Replacing the numbers may lead to different answers, or syntax errors.
+
+#### Addition *(cladd)* = Sum of two digits.
+
+#### Subtraction *(clsubtract)* = Difference of two digits.
+
+#### Multiplication *(clmultiply)* = Product of two digits.
+
+#### Divition *(cldivide)* = Quotient of two digits.
 
 ___
 
