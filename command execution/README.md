@@ -22,7 +22,6 @@ ___
 #### `>nhie`
 #### `>quiz or >qz`
 #### `>riddle or >rdl`
-#### `>tmaj`
 #### `>topic or >tpc`
 #### `>wyr`
 
@@ -42,7 +41,6 @@ ___
 #### `>suggesttopic or >sggtpc <your topic>`
 #### `>suggestwyr or >sggwyr <your wyr>`
 #### `>suggestask or >sggask <your ask entry>`
-#### `>suggesttmaj or >sggtmaj <your joke>`
 #### `>suggestanon or >sgganon <your suggestion>`
 
 ___
@@ -50,16 +48,35 @@ ___
 ###### Legend: dn = denominator (secs[s], mins[m], hours[h], days[d])
 
 ## 👮 | Moderator Commands
-#### `>afk <number>dn <reason>`
 #### `>ban <member> <reason>`
 #### `>kick <member> <reason>`
-#### `>muteafk or >mtafk <number>dn <reason>`
-#### `>ping or >pn`
 #### `>clear or >clr <number>`
+#### `>snipe or >snp`
+#### `>slowmode <number>`
 #### `>permanentmute or >mtp <member> <reason>`
 #### `>tempban or >tmpban <member> <number>dn <reason>`
 #### `>mute or >mt <member> <number>dn <reason>`
 #### `>unmute or >umt <member> <reason>`
+
+___
+
+## 📝 | Utility Commands
+#### `>afk <number>dn <reason>`
+#### `>muteafk or >mtafk <number>dn <reason>`
+#### `>ping or >pn`
+#### `>changenickname or >nick`
+#### `>remind`
+#### `>removenickname or >rnick`
+
+___
+
+## 🔢 | Calculator Commands
+#### `>cladd <number> <space> <number>`
+#### `>clsubtract <number> <space> <number>`
+#### `>clmultiply <number> <space> <number>`
+#### `>cldivide <number> <space> <number>`
+
+___
 
 ## Continue reading
 * [Introduction](https://github.com/raianah/twlight-docs/tree/main/introduction "Introduction")
