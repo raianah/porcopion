@@ -3,6 +3,12 @@ ___
 # Documentation Overview
 Welcome to the documentation overview for *Twlight Bot.* **(yes you see it right, twlight without the first "i" because it's cool 😎)**
 
+**Latest Update:**
+
+    Patch: 0.6.5
+    Codename: Buttons
+    Status: Online
+
 <p align="center">
   <img width="150" src="https://i.imgur.com/aJtR5tV.png" alt="Twlight">
 </p>
