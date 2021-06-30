@@ -1,21 +1,23 @@
 ___
 
+*|| Short Lore: After the abandonment of Twlight's power, the magic it holds bestowed upon the chosen one, Mizuki. ||*
+
 # Documentation Overview
-Welcome to the documentation overview for *Twlight Bot.* **(yes you see it right, twlight without the first "i" because it's cool 😎)**
+Welcome to the documentation overview for *Mizuki Bot.*
 
 **Latest Update:**
 
-    Patch: 0.6.5
-    Codename: Buttons
+    Patch: 0.7.0
+    Codename: Arcane: Phase 3
     Status: Online
 
 <p align="center">
-  <img width="150" src="https://i.imgur.com/aJtR5tV.png" alt="Twlight">
+  <img width="150" src="https://cdn.discordapp.com/attachments/840574968227037225/859615282812289054/20210630_084613_0000.jpg" alt="Mizuki">
 </p>
 
-<h1 align="center">
-    Twlight
-</h1>
+<h2 align="center">
+    Mizuki Bot
+</h2>
 
 ```
 @client.command()
@@ -27,6 +29,6 @@ async def hello(ctx):
 * [Introduction](https://github.com/raianah/twlight-docs/tree/main/introduction "Introduction")
 * [Commands](https://github.com/raianah/twlight-docs/tree/main/commands "Commands")
 * [Link](https://discord.com/api/oauth2/authorize?client_id=828936914601246741&permissions=1409416310&scope=bot "Discord Invite Link")
-* [Command Execution](https://github.com/raianah/twlight-docs/tree/main/command%20execution)
+* [Command Execution](https://github.com/raianah/twlight-docs/tree/main/command%20execution "Command Execution")
 
 ___
