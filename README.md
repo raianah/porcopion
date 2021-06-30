@@ -1,6 +1,13 @@
 ___
+<h4 align="center">
+    || Short Lore: After the abandonment of Twlight's power, the magic it holds bestowed upon the chosen one, Mizuki. ||
+</h4>
+    
+   [![Discord Bots](https://top.gg/api/widget/status/828936914601246741.svg)](https://top.gg/bot/828936914601246741)
+   [![Discord Bots](https://top.gg/api/widget/servers/828936914601246741.svg)](https://top.gg/bot/828936914601246741)
+   [![Discord Bots](https://top.gg/api/widget/upvotes/828936914601246741.svg)](https://top.gg/bot/828936914601246741)
+   [![Discord Bots](https://top.gg/api/widget/owner/828936914601246741.svg)](https://top.gg/bot/828936914601246741)
 
-*|| Short Lore: After the abandonment of Twlight's power, the magic it holds bestowed upon the chosen one, Mizuki. ||*
 
 # Documentation Overview
 Welcome to the documentation overview for *Mizuki Bot.*
