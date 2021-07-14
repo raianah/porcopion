@@ -23,7 +23,11 @@ async def on_ready():
 ___
 
 ### Status
-Mizuki is in official release, currently in 0.7.0 patch. Check `w!help` and `w!info` for more information and bot setup in your [Discord Server](https://discord.com/download "Discord") with [Mizuki Bot](https://discord.com/api/oauth2/authorize?client_id=828936914601246741&permissions=1409416310&scope=bot "Invite Link") to see the latest patch notes Currently the bot runs **50** commands!. The bot is available on [top.gg]( https://top.gg/bot/828936914601246741#/ "Just Click") and [astrabots.xyz](https://astrabots.xyz/bot/828936914601246741 "Just Click").
+Mizuki is in official release, currently in 0.8.0 patch. Check `w!help` and `w!info` for more information and bot setup in your [Discord Server](https://discord.com/download "Discord") with [Mizuki Bot](https://discord.com/api/oauth2/authorize?client_id=828936914601246741&permissions=1409416310&scope=bot "Invite Link") to see the latest patch notes Currently the bot runs **50** commands!. The bot is available on [top.gg]( https://top.gg/bot/828936914601246741#/ "Just Click") and [astrabots.xyz](https://astrabots.xyz/bot/828936914601246741 "Just Click").
+
+### Available Bot Lists:
+
+Currently Mizuki is available in [top.gg]( https://top.gg/bot/828936914601246741#/ "Top.gg"), [astrabot.xyz](https://astrabots.xyz/bot/828936914601246741 "Astrabots"), [consteagle.tk](https://consteagle.tk/bots/828936914601246741 "Consteagle"), [Disforge](https://disforge.com/bot/1345-twlight "Disforge"), and [Discord Bot List](https://discordbotlist.com/bots/twlight "Discord Bot List")
 
 ### Community
 Want to know other updates and join the beta program? Join us [here](https://discord.gg/7v2fUjXN99 "Twlight Server")!
