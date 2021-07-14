@@ -53,5 +53,6 @@ async def group3(ctx):
     embed.add_field(name='Put name here', value='Short description, or whatever fits your socks.')
     embed.add_field(name='\u200b', value='the name will appear as blank.')
     embed.add_field(name='\u200b', value='please refer to discord.py documentation for full commands.')
+    await ctx.send(embed=embed)
 
 client.run('token')
