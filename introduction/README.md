@@ -1,7 +1,7 @@
 # Introduction
 
 <p align="center">
-  <img width="150" src="https://cdn.discordapp.com/attachments/840574968227037225/859615282812289054/20210630_084613_0000.jpg" alt="Twlight">
+  <img width="150" src="https://cdn.discordapp.com/attachments/858505566429904896/870515889169109032/20210728_154716_0000.jpg" alt="Mizuki">
 </p>
 
 <h1 align="center">
@@ -23,17 +23,14 @@ async def on_ready():
 ___
 
 ### Status
-Mizuki is in official release, currently in 0.8.0 patch. Check `w!help` and `w!info` for more information and bot setup in your [Discord Server](https://discord.com/download "Discord") with [Mizuki Bot](https://discord.com/api/oauth2/authorize?client_id=828936914601246741&permissions=1409416310&scope=bot "Invite Link") to see the latest patch notes Currently the bot runs **50** commands!. The bot is available on [top.gg]( https://top.gg/bot/828936914601246741#/ "Just Click") and [astrabots.xyz](https://astrabots.xyz/bot/828936914601246741 "Just Click").
+Mizuki is in official release, currently in 0.11.0 patch. Check `w!help` and `w!about` for more information and bot setup in your [Discord Server](https://discord.com/download "Discord") with [Mizuki Bot](https://discord.com/api/oauth2/authorize?client_id=828936914601246741&permissions=1409416310&scope=bot "Invite Link") to see the latest patch notes Currently the bot runs **52** commands! Not trusting Mizuki? This link has no permissions! You need to setup the permissions in your own like. [Link here](https://discord.com/oauth2/authorize?client_id=828936914601246741&permissions=0&scope=bot). `w!changelogs` for the latest changes.
 
 ### Available Bot Lists:
 
 Currently Mizuki is available in [top.gg]( https://top.gg/bot/828936914601246741#/ "Top.gg"), [astrabot.xyz](https://astrabots.xyz/bot/828936914601246741 "Astrabots"), [consteagle.tk](https://consteagle.tk/bots/828936914601246741 "Consteagle"), [Disforge](https://disforge.com/bot/1345-twlight "Disforge"), and [Discord Bot List](https://discordbotlist.com/bots/twlight "Discord Bot List")
 
 ### Community
-Want to know other updates and join the beta program? Join us [here](https://discord.gg/7v2fUjXN99 "Twlight Server")!
-
-### Suggestion
-Your suggestion will be highly appreciated! Go through the Twlight Server, under Miyuki channel, put `!!suggestion <your suggestion>`.
+Want to know other updates and join the beta program? Join us [here](https://discord.gg/k28ct4T3yN "Twlight")!
 
 ___
 
@@ -44,8 +41,8 @@ async def bye(ctx):
 ```
 
 ### Continue Reading:
-* [Commands](https://github.com/raianah/twlight-docs/tree/main/commands "Commands")
 * [Command Execution](https://github.com/raianah/twlight-docs/tree/main/command%20execution)
+* [Changelogs](https://github.com/raianah/mizuki-docs/blob/main/changelogs/README.md "Changelogs")
 
 
 
@@ -60,5 +57,4 @@ async def bye(ctx):
 
 
 
-
-You made it here! Thanks for scrolling down even further. Here's your reward: Twlight/Mizuki Bot will officially releasing on July 1!
+You made it here! Thanks for scrolling down even further. Here's your reward: Mizuki is currently undergoing a transition from General Bot to a Battle Bot.
