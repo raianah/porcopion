@@ -9,10 +9,10 @@
 ___
 
 <h2 align="center">
-    0.11.0 | LIGHT AND FIRE | July 30, 2021
+    0.12.0 | TREASURES OF THE PAST | August 06, 2021
 </h2>
 
-#### Added Commands: `nuke`, `sting`
+#### Added Commands: N/A
 
 ___
 
@@ -20,65 +20,46 @@ ___
     BATTLE: LIGHT AND FIRE
 </h3>
 
-#### The next update features 3 new maps: `Heavens`, `Scorched`, and `Mystics`, changes in HP additions in `Heal`, and several buffs and nerfs.
+#### The next update features 3 new maps: `Spirit Shrine`, `Oasis Temple`, and `Arcane Stadia`, addition of `Miscellanous`, and nerfs for Double Kick & Double Shot.
 
 ___
 
 ### • `Adjustments`:
 
-*`1: Heal`* - Instead of constant 50 HP, it is now added by 5 if HP reaches 3 HP and lower.
-
---•-- 10 HP and below = +50 HP | 3 HP = +60 HP | 2 HP = +65 HP | 1 HP = +70 HP
-
-*`R: Confusion`* - Stun prompt now returns damage.
-
---•-- (3 - 16 DMG)
-
+• N/A
 ___
 
 ### • `Buffs`:
-*`Q: Solid Punch`* - Solid punch now deals more damage, it is now SOLID.
 
---•-- 21 Max. DMG -> 25 Max. DMG
-
-*`R: Confusion`* - Stun & Non-stun are no longer identical. Stun means less damage taken.
-
---•-- 16 Max. DMG (Non-stun) -> 18 Max. DMG
-
-•*`Q: Heartstealer`* - Increases lifesteal, because it's lifesteal.
-
---•-- 3 HP -> 5 HP
-
-•*`W: Landmine`* - Reduces health penalty.
-
---•-- Caster Damage: 28 DMG -> 25 DMG
+• N/A
 
 ___
 
 ### • `Nerfs`:
-•*`R: Avalanche`* - Increases health penalty, reduces damage for enemy.
 
---•-- Caster Damage: 23 DMG -> 26 DMG
+•*`R: Double Shot`* - Past patch this was also nerfed, so I'll nerf this one more because it is still strong enough to two-shot a 30 HP guy.
 
---•-- Enemy Damage: 25 DMG -> 23 DMG
+--•-- First Shot: 6/17 DMG -> 4/12 DMG
 
-•*`R: Double Shot`* - This OP action will be nerfed. Seriously, all you need to do is to increase your faith and the guy's dead within 4 bullets.
+--•-- Second Shot: 5/15 DMG -> 5/13 DMG
 
---•-- First Shot: 28 DMG -> 17 DMG
+•*`W: Double Kick`* - Kicks aren't that painful, so I'll tinker the damage down.
 
---•-- Second Shot: 22 DMG -> 15 DMG
+--•-- First Shot: 6/19 DMG -> 3/12 DMG
 
+--•-- Second Shot: 9/21 DMG -> 4/15 DMG
 ___
 
 ### • `New`:
-•*`Heavens`* - The call of the heavens, the purifier of all corrupted.
 
-Actions: `Q: Hammer of Guilt` | `W: Destiny` | `E: Redemption` | `R: Spark!`
+•*`Spirit Shrine`* - Awakened and reformed by The Arcane, this now serves as the shelter for wandering souls, both loving and unloving.
 
-•*`Scorched`* - A former land of forge, being destroyed by the land invaders and sets the entire town on fire. The problem is, the fire never stops and all trapped inside gained powers and immunity enough to survive the fiery town.
+Actions: `Q: Mass Destruction` | `W: Shattered Soul` | `E: Fragments of Soul` | `R: Burning Mist`
 
-Actions: `Q: Infernal Chains` | `W: Ignite` | `E: Fiery Pillar` | `R: Fireball`
+•*`Oasis Temple`* - Rich in cultured artifacts, and cursed beings, this temple has been there for centuries, waiting for someone to enter and feed into its curse.
 
-•*`Mystics`* - Also called the Mystical Garden, is home to ascended goddesses, and blooms. Handled by Loriatone, this garden is called the Forbidden Garden due to its fatal to mortals/ordinary humans.
+Actions: `Q: Sharp Edge` | `W: Cursed Artifact` | `E: Scavenge` | `R: Sand Blow`
 
-Actions: `Q: Soul Drain` | `W: Vineroot` | `E: Thunderbolt` | `R: Acid Rain`
+•*`Arcane Stadia`* - A fast-paced arena with stacking damages to one-shot everything through a 4-hit 'W'
+
+Actions: `Q: Bloodprice` | `W: Poison Shroud` | `E: Silver Claw` | `R: Enrage`
