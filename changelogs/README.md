@@ -9,7 +9,7 @@
 ___
 
 <h2 align="center">
-    0.12.0 | TREASURES OF THE PAST | August 06, 2021
+    0.13.0 | ECLIPSE | August 17, 2021
 </h2>
 
 #### Added Commands: N/A
@@ -17,10 +17,10 @@ ___
 ___
 
 <h3 align="center">
-    BATTLE: LIGHT AND FIRE
+    BATTLE: ECLIPSE
 </h3>
 
-#### The next update features 3 new maps: `Spirit Shrine`, `Oasis Temple`, and `Arcane Stadia`, addition of `Miscellanous`, and nerfs for Double Kick & Double Shot.
+#### The next update features 4 new maps: `Ruins`, `Woodlands`, `Caverns`, and `Sanctuary`, addition of `Energy` & `Entity`, and several buffs and nerfs.
 
 ___
 
@@ -31,35 +31,64 @@ ___
 
 ### • `Buffs`:
 
-• N/A
+•*`Q: Infernal Chains`* - Making this action feel the heat...literally.
+
+--•-- Stun DMG: 15 Max DMG -> 17 Max DMG
+
+--•-- Non-Stun DMG: 22 Max DMG -> 23 Max DMG
+
+•*`R: Spark!`* - Make spark great again!
+
+--•-- Max DMG: 21 -> 24
+
+•*`Q: Soul Drain`* - It needs to keep balance with the give-and-take.
+
+--•-- Lifesteal: 10 -> 13
+
+•*`E: Firefist`* - Learn to control heat on your hands.
+
+--•-- Both Burn [Ally]: 19 DMG -> 21 DMG
+
+--•-- Both Burn [Enemy]: 21 DMG -> 23 DMG
 
 ___
 
 ### • `Nerfs`:
 
-•*`R: Double Shot`* - Past patch this was also nerfed, so I'll nerf this one more because it is still strong enough to two-shot a 30 HP guy.
+•*`E: Scavenge`* - Making atleast Health Potion luxury enough to gain.
 
---•-- First Shot: 6/17 DMG -> 4/12 DMG
+--•-- Health Potion: 20% Luck -> 35% Luck
 
---•-- Second Shot: 5/15 DMG -> 5/13 DMG
+--•-- Elixir of Rage: 50% Luck -> 65% Luck
 
-•*`W: Double Kick`* - Kicks aren't that painful, so I'll tinker the damage down.
+--•-- Moonlight Amulet: 70% Luck -> 80% Luck
 
---•-- First Shot: 6/19 DMG -> 3/12 DMG
+•*`Q: Short Stab`* - The healing capacity of Oasis Temple makes the Short Stab decrease its damage. Blame on the temple!
 
---•-- Second Shot: 9/21 DMG -> 4/15 DMG
+--•-- First Stab: 4-9 DMG -> 3-8 DMG
+
+--•-- Second Stab: 6-15 DMG -> 5-13 DMG
+
 ___
 
 ### • `New`:
 
-•*`Spirit Shrine`* - Awakened and reformed by The Arcane, this now serves as the shelter for wandering souls, both loving and unloving.
+•*`Ruins`* - Find the crystal, and restore all things!
 
-Actions: `Q: Mass Destruction` | `W: Shattered Soul` | `E: Fragments of Soul` | `R: Burning Mist`
+Actions: `Q: Crystal Strike` | `W: Dagger Attack` | `E: Divine Retribution` | `R: Spirit of the Relic`
 
-•*`Oasis Temple`* - Rich in cultured artifacts, and cursed beings, this temple has been there for centuries, waiting for someone to enter and feed into its curse.
+•*`Woodlands`* - Fool the fairy, or tell the truth and you will be granted upon the hands of the fairy.
 
-Actions: `Q: Sharp Edge` | `W: Cursed Artifact` | `E: Scavenge` | `R: Sand Blow`
+Actions: `Q: Rainfall` | `W: Broken Lies` | `E: Regeneration` | `R: Small Help`
 
-•*`Arcane Stadia`* - A fast-paced arena with stacking damages to one-shot everything through a 4-hit 'W'
+•*`Caverns`* - Be the shining star beyond darkness and night.
 
-Actions: `Q: Bloodprice` | `W: Poison Shroud` | `E: Silver Claw` | `R: Enrage`
+Actions: `Passive: Mark of the Crescent`, `Q: Moonlight Rush` | `W: Empowerment` | `E: Crescencium` | `R: Call of the Owl`
+
+•*`Sanctuary`* - Bring the glory across all lands where the sun shines.
+
+Actions: `Q: Shining Star` | `W: Enlightenment` | `E: Solarium` | `R: Grace of the Phoenix`
+
+•*`Energy`* - A secondary-source where actions consumes to cast an action.
+
+Available in: **Maps Above**
