@@ -1,3 +1,20 @@
+# State of this documentation
+
+- Documentation for Mizuki (Porcopion) will be move to this website: https://raianah.gitbook.io/porcopion. Still under work.
+    - Porcopion's Promotional Website: https://raianah.yolasite.com/porcopion
+- This will not be deleted, but remains here for the sake of documenting progress all throughout Porcopion's progress.
+- This will be now in **legacy** version. Updates regarding Porcopion won't be documented here.
+
+## For the mean time, you can check on other bots I already have:
+- [Jukebox](https://raianah.gitbook.io/jukebox)
+- [Confessors](https://raianah.gitbook.io/confessors)
+- [Detective](https://raianah.gitbook.io/detective-bot)
+- Together (coming soon)
+
+## About the Developer:
+- https://raianah.gitbook.io/raianah
+- https://raianah.yolasite.com
+
 ___
 
 </h4>
@@ -9,32 +26,27 @@ ___
 
 
 # Documentation Overview
-Welcome to the documentation overview for *Mizuki Bot.*
+Welcome to the documentation overview for *Porcopion.*
 
 **Latest Update:**
 
-    Patch: 0.11.0
-    Codename: Light & Fire
+    Patch: 1.x.xx (future-proof)
+    Codename: New Era
     Status: Online
 
 <p align="center">
-  <img width="150" src="https://cdn.discordapp.com/attachments/858505566429904896/870515889169109032/20210728_154716_0000.jpg" alt="Mizuki">
+  <img width="150" src="https://cdn.discordapp.com/attachments/858505566429904896/920911194309685248/20211215_094753_0000.png" alt="Porcopion">
 </p>
 
 <h2 align="center">
-    Mizuki Bot
+    Porcopion
 </h2>
 
-```
-@client.command()
-async def hello(ctx):
-  await ctx.send(f'Hello, {ctx.author.name}!')
-```
 
 ### You can check the contents below, all corresponds to their respective documentation.
-* [Introduction](https://github.com/raianah/mizuki-docs/blob/main/introduction/README.md "Introduction")
-* [Link](https://discord.com/api/oauth2/authorize?client_id=828936914601246741&permissions=1409416310&scope=bot "Discord Invite Link")
-* [Command Execution](https://github.com/raianah/mizuki-docs/blob/main/command%20execution/README.md "Command Execution")
-* [Changelogs](https://github.com/raianah/mizuki-docs/blob/main/changelogs/README.md "Changelogs")
+* ~~[Introduction](https://github.com/raianah/mizuki-docs/blob/main/introduction/README.md "Introduction")~~ (Outdated)
+* ~~[Link](https://discord.com/api/oauth2/authorize?client_id=828936914601246741&permissions=1409416310&scope=bot "Discord Invite Link")~~ (Outdated)
+* ~~[Command Execution](https://github.com/raianah/mizuki-docs/blob/main/command%20execution/README.md "Command Execution")~~ (Outdated)
+* ~~[Changelogs](https://github.com/raianah/mizuki-docs/blob/main/changelogs/README.md "Changelogs")~~ (Outdated)
 
 ___
