@@ -40,7 +40,7 @@ Look for someone to play some battles, or be competitive enough to play local se
   <img src="https://cdn.discordapp.com/attachments/858505566429904896/943518796814118952/battle_banner.png" alt="Porcopion">
 </p>
 
-- **Battle:** Play a game of battle against a member, win crowns, and rise to the top server leaderboards! This type of game requires registration. You can register via using `/register` in the bot.
+- **Battle:** Play a game of battle against a member, win crowns, and rise to the top server leaderboards! Flex your statistics against a member, win more tournament duels, and commend someone.
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/858505566429904896/943700399347609650/others_banner.png" alt="Porcopion">
