@@ -1,55 +1,49 @@
-# Currently Working
-- We are currently working on the new description. Hang out for a while!
-
-# State of this documentation
-
-- Documentation for Mizuki (Porcopion) will be move to this website: https://raianah.gitbook.io/porcopion. Still under work.
-    - Porcopion's Promotional Website: https://raianah.yolasite.com/porcopion
-- This will not be deleted, but remains here for the sake of documenting progress all throughout Porcopion's progress.
-- This will be now in **legacy** version. Updates regarding Porcopion won't be documented here.
-
-## For the mean time, you can check on other bots I already have:
-- [Jukebox](https://raianah.gitbook.io/jukebox)
-- [Confessors](https://raianah.gitbook.io/confessors)
-- [Detective](https://raianah.gitbook.io/detective-bot)
-- Together (coming soon)
-
-## About the Developer:
-- https://raianah.gitbook.io/raianah
-- https://raianah.yolasite.com
-
-___
-
-</h4>
-    
-   [![Discord Bots](https://top.gg/api/widget/status/828936914601246741.svg)](https://top.gg/bot/828936914601246741)
-   [![Discord Bots](https://top.gg/api/widget/servers/828936914601246741.svg)](https://top.gg/bot/828936914601246741)
-   [![Discord Bots](https://top.gg/api/widget/upvotes/828936914601246741.svg)](https://top.gg/bot/828936914601246741)
-   [![Discord Bots](https://top.gg/api/widget/owner/828936914601246741.svg)](https://top.gg/bot/828936914601246741)
-
-
-# Documentation Overview
-Welcome to the documentation overview for *Porcopion.*
-
-**Latest Update:**
-
-    Patch: 1.x.xx (future-proof)
-    Codename: New Era
-    Status: Online
+##### Note: This will be implemented at the 3rd of April! You can still use the ! prefix. For help, use `!help`. For in-depth explanation, use `!help <category>` or `!help <command>`
 
 <p align="center">
-  <img width="150" src="https://cdn.discordapp.com/attachments/858505566429904896/920911194309685248/20211215_094753_0000.png" alt="Porcopion">
+  <img src="https://cdn.discordapp.com/attachments/858505566429904896/940077151011618866/final_banner.png" alt="Porcopion">
 </p>
 
-<h2 align="center">
-    Porcopion
-</h2>
+<h1 align="center">
+    About Porcopion:
+</h1>
 
+<h5 align="center">
+    <a href="https://discord.com/api/oauth2/authorize?client_id=828936914601246741&permissions=1409416310&scope=bot">Invite Link</a> | <a href="https://discord.gg/k28ct4T3yN">Support Server</a> | <a href="https://stats.uptimerobot.com/BX5znIDJN3">Status Page</a> | <a href="https://raianah.yolasite.com/">Website</a> | <a href="https://raianah.gitbook.io/raianah">About Me</a> | <a href="mailto:raianah.twilight@gmail.com">Email Me</a>
+</h5>
 
-### You can check the contents below, all corresponds to their respective documentation.
-* ~~[Introduction](https://github.com/raianah/mizuki-docs/blob/main/introduction/README.md "Introduction")~~ (Outdated)
-* ~~[Link](https://discord.com/api/oauth2/authorize?client_id=828936914601246741&permissions=1409416310&scope=bot "Discord Invite Link")~~ (Outdated)
-* ~~[Command Execution](https://github.com/raianah/mizuki-docs/blob/main/command%20execution/README.md "Command Execution")~~ (Outdated)
-* ~~[Changelogs](https://github.com/raianah/mizuki-docs/blob/main/changelogs/README.md "Changelogs")~~ (Outdated)
+Porcopion is a Discord Bot enriched in Interactive and Idle Games, Economy for buying in-game stuffs, Social Starters to make your server alive, and Utilities to further enhance your usage.
 
-___
+Look for someone to play some battles, or be competitive enough to play local server tournament battles and rise to be the top player.
+
+# How to Use?
+
+- `/help` for the list of commands.
+- You can check the [documentation](https://raianah.gitbook.io/porcopion/) for the in-depth explanation and other stuffs not included here.
+- You can modify me further by using `/config` settings.
+
+# Features:
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/858505566429904896/943518796566634496/economy_banner.png" alt="Porcopion">
+</p>
+
+- **Economy:** Earn coins, get rich, buy items. Work as miner, lumber, warrior, or combine both and get super rich! Consume items to power-up, or spend your coins on purchasing rare items. It's all up to you.
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/858505566429904896/943518797015441478/entertainment_banner.png" alt="Porcopion">
+</p>
+
+- **Entertainment:** Spice up your servers with topics, would you rather, press the button, and more! Also provided with various reddit feeds such as wallpaper, memes, wholesome posts, and shower thoughts!
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/858505566429904896/943518796814118952/battle_banner.png" alt="Porcopion">
+</p>
+
+- **Battle:** Play a game of battle against a member, win crowns, and rise to the top server leaderboards! This type of game requires registration. You can register via using `/register` in the bot.
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/858505566429904896/943700399347609650/others_banner.png" alt="Porcopion">
+</p>
+
+- Built with 78 commands, you'll never lose something to go by.
