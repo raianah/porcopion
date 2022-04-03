@@ -10,9 +10,9 @@
     <a href="https://discord.com/api/oauth2/authorize?client_id=828936914601246741&permissions=1409416310&scope=bot">Invite Link</a> | <a href="https://discord.gg/k28ct4T3yN">Support Server</a> | <a href="https://stats.uptimerobot.com/BX5znIDJN3">Status Page</a> | <a href="https://raianah.yolasite.com/">Website</a> | <a href="https://raianah.gitbook.io/porcopion/legal/legal">Legal Notice</a> | <a href="https://raianah.gitbook.io/raianah">About Me</a> | <a href="mailto:raianah.twilight@gmail.com">Email Me</a> | <a href="https://github.com/raianah/porcopion/tree/main/contribute">Contribute</a>
 </h5>
 
-Porcopion is a Discord Bot enriched in Interactive and Idle Games, Economy for buying in-game stuffs, Social Starters to make your server alive, and Utilities to further enhance your usage.
+Porcopion is a Discord Bot enriched in PvP Battle Games in casual or competitive, Economy for buying in-game stuffs, Social Starters to make your server alive, Image Manipulation Program to fill up your memer mindset, and useful utilities for your growing server.
 
-Look for someone to play some battles, or be competitive enough to play local server tournament battles and rise to be the top player.
+Look for someone in your server to play some battles, or be competitive enough to play server tournament battles and rise to be the top player in your server.
 
 # How to Use?
 
@@ -44,4 +44,4 @@ Look for someone to play some battles, or be competitive enough to play local se
   <img src="https://cdn.discordapp.com/attachments/858505566429904896/957230867149905930/porcy_utility.png" alt="Porcopion">
 </p>
 
-- Built with 91 commands, you'll never lose something to go by.
+- Built with 95 commands, you'll never lose something to go by.
