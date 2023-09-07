@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/840198568919826435/1093027582166958260/20230405_121211_0000.png"/>
+<img src="https://cdn.discordapp.com/attachments/858505566429904896/1149348891548979322/Porcopion_Promo_Poster.png" width="1200px" height="150px"/>
 <h2 align="center">Welcome to Porcopion 2!</h2>
 
 <div align="center">
